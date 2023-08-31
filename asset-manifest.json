@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/avito/static/css/main.a93e497e.css",
+    "main.js": "/avito/static/js/main.69d9f06d.js",
+    "index.html": "/avito/index.html",
+    "main.a93e497e.css.map": "/avito/static/css/main.a93e497e.css.map",
+    "main.69d9f06d.js.map": "/avito/static/js/main.69d9f06d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93e497e.css",
+    "static/js/main.69d9f06d.js"
+  ]
+}
